@@ -11,6 +11,8 @@
     <modules>
         <module>tutorialoneproduct</module>
         <module>tutorialoneconsumer</module>
+        <module>tutorialtwoconsumer</module>
+        <module>tutorialtwoproduct</module>
     </modules>
     <dependencies>
         <dependency>
